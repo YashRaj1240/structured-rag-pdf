@@ -28,10 +28,5 @@ Make sure you have Python 3.8+ installed. Install the required dependencies usin
 ```bash
 pip install -r requirements.txt
 
-### 2. Configure Environment
-Create a .env file in the root directory with the following:
-OPENAI_API_KEY=your_openai_api_key
-Replace your_openai_api_key with your actual OpenAI API key.
 
-### 3. Run the Script
 
